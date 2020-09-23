@@ -1,0 +1,1 @@
+I took the existing weather.ocx, sorry forgot the authors name, and modified it to get temperature, humidity and other things. Just install all the files into same folder, run the program and click get weather. You must have an open internet connection for it to work
